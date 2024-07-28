@@ -11,6 +11,7 @@ The initial step in the analysis involved cleaning the data. This included:
 - Correcting data types
 - Removing duplicates
 - Standardizing column names
+- Rename few columns
 
 ## Analysis
 
@@ -36,6 +37,7 @@ Below are the key visualizations from the analysis:
 - **Sales by Category**: Graph depicting the performance of different categories.
 - **Sales by Gender**: Visualization of sales split by gender.
 - **Courier Status**: Chart illustrating the proportion of orders shipped by courier.
+- **Distribution Based on Size**:Visualization of orders split by Size.
 
 ### Conclusion
 The data analysis reveals that the business has a significant customer base in Maharashtra state, mainly serves retailers, fulfills orders through Amazon, experiences high demand for T-shirts, and sees M-Size as the preferred choice among buyers.
